@@ -1,6 +1,6 @@
 ## Set AWS Keys on Github
 
-A little helper script to set my AWS Keys on a GH repository.
+A little helper script to quickly set my AWS Keys on a GH repository when running Serverless applications.
 
 Install the [Github command line tool](https://formulae.brew.sh/formula/gh).
 
